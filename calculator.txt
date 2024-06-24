@@ -1,0 +1,12 @@
+def addition(*numbers):
+output = 0
+for num in numbers:
+output += num
+return output
+
+Run Code Part:
+numbers = TAKE INPUT NUMBERS FROM FRONT END 
+choice = TAKE OPERATION TO BE PERFORMED FROM FRONT END
+
+if choice == "addition":
+return addition(numbers)
