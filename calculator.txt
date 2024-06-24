@@ -6,6 +6,8 @@ return output
 
 def substraction(numbers):
 return none 
+This will create merge conflict!!
+
 Run Code Part:
 numbers = TAKE INPUT NUMBERS FROM FRONT END 
 choice = TAKE OPERATION TO BE PERFORMED FROM FRONT END
